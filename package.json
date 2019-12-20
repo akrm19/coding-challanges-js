@@ -1,0 +1,14 @@
+{
+  "name": "codingchallenges",
+  "version": "1.0.0",
+  "description": "Proj for coding challenges",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.12.11"
+  }
+}
